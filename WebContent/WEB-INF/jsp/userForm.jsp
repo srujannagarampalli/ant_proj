@@ -28,9 +28,9 @@
 			<td>Country :</td>
 			<td><form:select path="country">
 				<form:option value="0" label="Select" />
-				<form:option value="1" label="HYD" />
-				<form:option value="2" label="SEC" />
-				<form:option value="3" label="GUN" />
+				<form:option value="1" label="vskp" />
+				<form:option value="2" label="Sklm" />
+				<form:option value="3" label="ankp" />
 				<form:option value="4" label="VSK" />
 			</form:select></td>
 		</tr>
